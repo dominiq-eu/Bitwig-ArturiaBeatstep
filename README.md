@@ -3,7 +3,7 @@
 In this package are two different control scripts, named BeatStep-MidiMapping
 and BeatStep-NoteInput. Both scripts use an overlay in bitwig to show the
 values of the mapped knobs. You can turn this of in the corresponding
-*.control.js. There is a variable **SHOW_VALUES**, turn it to *false* and there
+.control.js file. There is a variable **SHOW_VALUES**, turn it to *false* and there
 is no overlay anymore.
 
 
